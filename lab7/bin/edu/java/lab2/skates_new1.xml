@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<skatelist>
+    <skate brand="Bauer" level="Профи" model="Vapor X3.5" price="13500" size="42"/>
+    <skate brand="Graf" level="Любитель" model="Professional" price="19500" size="40"/>
+    <skate brand="Edea" level="Профессионал" model="Piano" price="40000" size="39"/>
+</skatelist>
